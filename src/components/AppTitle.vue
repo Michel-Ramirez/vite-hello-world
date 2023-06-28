@@ -3,7 +3,13 @@
 </script>
 
 <template>
-    <h1>La mia prima app con Vite!</h1>
+    <div class="container">
+        <h1 class="text-center mt-5">La mia prima app con Vite!</h1>
+    </div>
 </template>
 
-<style></style>
+<style>
+h1 {
+    font-size: 4rem;
+}
+</style>
